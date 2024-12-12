@@ -55,7 +55,7 @@ This project implements a communication system on an STM32 microcontroller capab
 ## Setup and Installation
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/DaveGamble/cJSON.git>
    ```
 2. **Install Development Tools:**
    - Install keil uVision5,Eclips,STM32cub,Proutes IDE and set up the GNU Arm Embedded Toolchain.
