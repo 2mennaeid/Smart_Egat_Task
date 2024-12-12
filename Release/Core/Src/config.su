@@ -1,0 +1,6 @@
+../Core/Src/config.c:14:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/config.c:55:6:ADC1_Init	16	static,ignoring_inline_asm
+../Core/Src/config.c:71:6:USART1_UART_Init	16	static,ignoring_inline_asm
+../Core/Src/config.c:87:6:sendJSON	8	static
+../Core/Src/config.c:90:6:receiveJSON	0	static
+../Core/Src/config.c:93:6:Error_Handler	0	static,ignoring_inline_asm

@@ -1,0 +1,6 @@
+../Core/Src/config.c:14:6:SystemClock_Config	4
+../Core/Src/config.c:55:6:ADC1_Init	2
+../Core/Src/config.c:71:6:USART1_UART_Init	2
+../Core/Src/config.c:87:6:sendJSON	1
+../Core/Src/config.c:90:6:receiveJSON	1
+../Core/Src/config.c:93:6:Error_Handler	1

@@ -1,0 +1,2 @@
+../Core/Src/TemperatureSensor.c:11:6:LM35_Init	24	static
+../Core/Src/TemperatureSensor.c:19:7:LM35_ReadTemperature	16	static

@@ -1,0 +1,3 @@
+../Core/Src/Relay.c:16:6:Relay_Init	40	static
+../Core/Src/Relay.c:41:6:Relay_SetState	0	static
+../Core/Src/Relay.c:57:9:Relay_GetState	0	static

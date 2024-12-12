@@ -1,0 +1,2 @@
+../Core/Src/LDRSensor.c:4:6:LDR_Init	24	static
+../Core/Src/LDRSensor.c:12:7:LDR_ReadValue	8	static

@@ -1,0 +1,2 @@
+../Core/Src/LDRSensor.c:4:6:LDR_Init	1
+../Core/Src/LDRSensor.c:12:7:LDR_ReadValue	2
